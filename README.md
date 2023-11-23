@@ -1,8 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Note Apps
 
-## Getting Started
+Note Apps ini adalah sebuah aplikaasi web yang dibuat untuk mencatat keuangan customer dalam kehidupan sehari hari. Tujuan dari projek ini adalah menambahkan portofolio dan meningkatkan skill.
 
-First, run the development server:
+Tim Proyek:
++ [Robi Nurhidayat](https://github.com/Robi-Nurhidayat) => Front-End Developer, Project Manager
++ [Bagus Perdana Y.](https://github.com/bagusperdanay7) => Back-End Developer
+
+#### Back-End Tools:
+- PHP 8.2
+- Laravel
+- Composer
+- MySQL Database
+- OpenAPI & Swagger
+- JWT
+
+#### Front-End Tools:
+- React
+- TypeScript
+- TailwindCSS
+- Redux
+
+### Run NextJS
+Install All Node Modules First
+```bash
+npm install
+```
+Run Development
 
 ```bash
 npm run dev
